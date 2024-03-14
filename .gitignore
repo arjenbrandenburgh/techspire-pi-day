@@ -1,0 +1,13 @@
+# Compiled object files
+*.o
+*.so
+*.obj
+*.dll
+*.exe
+*.dylib
+
+# Binaries
+/bin/*
+
+# Bazel build folders
+bazel-*
